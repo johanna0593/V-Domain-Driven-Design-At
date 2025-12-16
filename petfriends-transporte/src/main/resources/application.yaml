@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: petfriends-transporte
+
+  datasource:
+    url: jdbc:h2:mem:transporte-db
+
+server:
+  port: 8082
